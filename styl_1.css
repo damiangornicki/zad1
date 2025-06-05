@@ -1,0 +1,36 @@
+body{
+    background-color: #f6e5dc;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0px;
+}
+header{
+    background-color:#2F180C ;
+    text-align: center;
+    color:white;
+    height: 60px;
+}
+.lewy{
+    width: 60%;
+    float: left;
+}
+.prawy{
+    font-size: 200%;   
+    padding: 50px;
+   
+}
+.dolny{
+    background-color:#D0B6A8 ;
+    text-align: center;
+    padding: 30px;
+}
+.stopka{
+    background-color: #2f180c;
+    color: white;
+    height: 60px;
+}
+img{
+    height: 390px;
+}
+ul,li{
+    list-style: circle;
+}
